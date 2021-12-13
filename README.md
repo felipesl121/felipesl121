@@ -2,13 +2,16 @@
 ### Hi there 👋
 
 Felipe aqui!
+
 Felipe here!
 
 Desenvolvedor backend
+
 Backend developer
 
 
 ## Linguagens e ferramentas:
+
 ## Language and tools:
  - Python
  - Go
