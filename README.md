@@ -10,9 +10,7 @@ Desenvolvedor backend
 Backend developer
 
 
-## Linguagens e ferramentas:
-
-## Language and tools:
+## Linguagens e ferramentas/Language and tools:
  - Python
  - Go
  - Javascript
