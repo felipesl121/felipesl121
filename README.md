@@ -5,9 +5,9 @@ Felipe aqui!
 
 Felipe here!
 
-Desenvolvedor backend
+Engenheiro de Software Fullstack 
 
-Backend developer
+Fullstack Software Engineer
 
 
 ## Linguagens e ferramentas/Language and tools:
